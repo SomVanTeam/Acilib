@@ -1,5 +1,5 @@
 # Acilib
-An easy-to-use and basic UI library supported practically anywhere.
+An easy to use and basic UI library supported practically anywhere.
 ## Using Acilib
 First of all, you need to require the library:
 ```lua
