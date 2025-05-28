@@ -38,6 +38,7 @@ After making all the elements, it's time to create the window. Acilib will autom
 ```lua
 Acilib:Load({
 	Title="Window", -- title of the window
-	Draggable=true -- is the window draggable? disabling increases performance slightly
+	Draggable=true, -- is the window draggable? disabling increases performance slightly
+	RandomizeNames=true -- randomizes all children's names in case of some detection, this wont be visible to the user but may cause a small freeze
 })
 ```
