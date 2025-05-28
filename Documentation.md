@@ -12,7 +12,6 @@ local Tab = Acilib:Tab({
     Title="Main Tab" -- title of the tab
 })
 ```
-Keep in mind, Acilib will not load tabs without any contents
 ## Making a Button
 You can add a button to a tab like this:
 ```lua
